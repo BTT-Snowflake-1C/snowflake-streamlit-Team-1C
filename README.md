@@ -61,64 +61,6 @@ How to Run
 	
 	3.	Run the app (authentication handled automatically)
 
-⸻
-
-
-
-
-⸻
-
-
----
-
-### Project Overview
-
-**Connection to Break Through Tech AI**
-
-This project was developed as part of the Break Through Tech AI Studio, where fellows work on real-world, industry-aligned data science challenges using enterprise platforms.
-
-**Host Context & Objective**
-
-The objective of this project is to identify and explain healthcare access gaps (medical deserts) in Arizona by analyzing how social vulnerability, heat exposure, population dynamics, and hospital capacity intersect at the county level.
-
-**Scope of Work**
-- Data exploration and feature engineering using Snowflake  
-- County-level comparative analysis and visualization  
-- Interpretability-focused modeling evaluation  
-- AI-assisted insight generation for non-technical stakeholders  
-
-**Real-World Significance**
-
-Extreme heat and social vulnerability amplify healthcare inequities. This dashboard helps:
-- Public health officials prioritize intervention areas  
-- Policymakers allocate healthcare resources more effectively  
-- Communities prepare for climate-driven health risks  
-
----
-
-### Application Pages
-- Home — Overview and live data preview  
-- Data Understanding — Raw vs engineered datasets  
-- County Analysis — Population and vulnerability comparisons  
-- Exploratory Visual Analysis — Hospitals, heat, and social barriers  
-- Modeling & Evaluation — Performance interpretation  
-- AI Assistant — Snowflake Cortex–powered Q&A  
-
----
-
-### Security & Authentication
-- Uses Snowflake-native get_active_session()  
-- No hardcoded credentials  
-- AI powered by Snowflake Cortex, not external APIs  
-
----
-
-### Future Enhancements
-- Cross-validation with expanded datasets  
-- Geospatial mapping layers  
-- Time-series heat analysis  
-- External validation beyond Arizona  
-
 
 ## 👩🏽‍💻 Setup and Installation
 
@@ -171,17 +113,17 @@ Connection to Break Through Tech AI
 
 This project was developed as part of the Break Through Tech AI Studio, where fellows work on real-world, industry-aligned data science challenges using enterprise platforms and responsible AI practices.
 
-Host Context & Objective
+**Host Context & Objectives**
 
 The objective of this project is to identify and explain healthcare access gaps (“medical deserts”) in Arizona by analyzing how social vulnerability, heat exposure, population dynamics, and hospital capacity interact at the county level. social vulnerability, heat exposure, population dynamics, and hospital capacity intersect at the county level.
 
-Scope of Work
+**Scope of Work**
 	•	Data exploration and feature engineering using Snowflake
 	•	County-level comparative analysis and interactive visualization
 	•	Interpretability-focused model evaluation
 	•	AI-assisted insight generation for non-technical stakeholders
 
-Real-World Significance
+**Real-World Significance**
 
 Extreme heat and social vulnerability amplify healthcare inequities. This dashboard helps:
 	•	Public health officials prioritize intervention areas
@@ -189,7 +131,7 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 	•	Communities prepare for climate-driven health risks
 ⸻
 
-📊 Application Pages
+### 📊 Application Pages
 - Home — Overview and live data preview  
 - Data Understanding — Raw vs engineered datasets  
 - County Analysis — Population and vulnerability comparisons  
@@ -248,6 +190,11 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 - Cross-validation with expanded datasets  
 - Geospatial mapping layers  
 - Time-series heat analysis  
+- External validation beyond Arizona
+- ### Future Enhancements
+- Cross-validation with expanded datasets  
+- Geospatial mapping layers  
+- Time-series heat analysis  
 - External validation beyond Arizona  
 
 ⸻
@@ -256,6 +203,13 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 	•	Uses Snowflake-native get_active_session()
 	•	No hardcoded credentials
 	•	AI powered by Snowflake Cortex, not external LLM APIs
+
+	⸻
+
+
+---
+
+
 
 ⸻
 
