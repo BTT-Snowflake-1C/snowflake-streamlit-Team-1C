@@ -8,7 +8,11 @@
 | Name | GitHub Handle | Contribution |
 |----|----|----|
 | Mahamadou Nimaga | @Mahamadou4 | Streamlit app development, Snowflake integration, dashboard architecture, AI assistant |
-| Team Snowflake 1C | — | Data engineering, feature selection, exploratory analysis, modeling |
+| Team Snowflake 1C | @sgubba1 | Data engineering, feature selection, exploratory analysis, modeling |
+| Team Snowflake 1C | @zyanczy| Data engineering, feature selection, exploratory analysis, modeling |
+| Team Snowflake 1C | @fizabajwa25 | Data engineering, feature selection, exploratory analysis, modeling |
+| Team Snowflake 1C | @nitsujiang | Data engineering, feature selection, exploratory analysis, modeling |
+| Team Snowflake 1C | @naima-01 | Data engineering, feature selection, exploratory analysis, modeling |
 
 ---
 
