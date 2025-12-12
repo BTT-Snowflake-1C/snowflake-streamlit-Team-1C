@@ -50,9 +50,9 @@ Channels:
 	•	snowflake
 
 ## Dependencies:
-	•	python 3.10
-	•	snowflake-snowpark-python
-	•	streamlit
+- python 3.10
+- snowflake-snowpark-python
+- streamlit
 
 ### How to Run
 	1.	Connect this GitHub repository to Snowflake using Git integration
@@ -62,11 +62,11 @@ Channels:
 ### 🧪 Data Sources
 These datasets include county-level social vulnerability indicators, heat exposure metrics, population data, and licensed hospital capacity.
 Snowflake tables used in this project:
-	•	SVI.PUBLIC.ARIZONA_CLEAN
-	•	SVI.PUBLIC.ARIZONA_2022_MAXTEMP
-	•	SVI.PUBLIC.ARIZONA_LICENSED_HOSPITAL
-	•	SVI.PUBLIC.SVI_HOSPITAL_MERGED
-	•	SVI.PUBLIC.SVICLEANED
+- SVI.PUBLIC.ARIZONA_CLEAN
+- SVI.PUBLIC.ARIZONA_2022_MAXTEMP
+- SVI.PUBLIC.ARIZONA_LICENSED_HOSPITAL
+- SVI.PUBLIC.SVI_HOSPITAL_MERGED
+- SVI.PUBLIC.SVICLEANED
 
 These datasets include county-level social vulnerability indicators, heat exposure metrics, population data, and licensed hospital capacity.
 
@@ -83,17 +83,17 @@ This project was developed as part of the Break Through Tech AI Studio, where fe
 The objective of this project is to identify and explain healthcare access gaps (“medical deserts”) in Arizona by analyzing how social vulnerability, heat exposure, population dynamics, and hospital capacity interact at the county level. social vulnerability, heat exposure, population dynamics, and hospital capacity intersect at the county level.
 
 **Scope of Work**
-	•	Data exploration and feature engineering using Snowflake
-	•	County-level comparative analysis and interactive visualization
-	•	Interpretability-focused model evaluation
-	•	AI-assisted insight generation for non-technical stakeholders
+- Data exploration and feature engineering using Snowflake
+- County-level comparative analysis and interactive visualization
+- Interpretability-focused model evaluation
+- AI-assisted insight generation for non-technical stakeholders
 
 **Real-World Significance**
 
 Extreme heat and social vulnerability amplify healthcare inequities. This dashboard helps:
-	•	Public health officials prioritize intervention areas
-	•	Policymakers allocate healthcare resources more effectively
-	•	Communities prepare for climate-driven health risks
+- Public health officials prioritize intervention areas
+- Policymakers allocate healthcare resources more effectively
+- Communities prepare for climate-driven health risks
 
 
 ### 📊 Application Pages
@@ -113,61 +113,51 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 
 
 ### 🧠 Model Development
-	•	Evaluated multiple models (logistic regression, decision tree, random forest)
-	•	Focused on interpretability over complexity
-	•	Observed perfect scores due to small dataset size and clear signal
-	•	Explicitly discussed risks of overfitting and data leakage
+- Evaluated multiple models (logistic regression, decision tree, random forest)
+- Focused on interpretability over complexity
+- Observed perfect scores due to small dataset size and clear signal
+- Explicitly discussed risks of overfitting and data leakage
 	
 
 ### 📈 Results & Key Findings
-	•	All evaluated models achieved perfect precision and recall on the dataset
-	•	Results indicate a strong, easily separable pattern rather than robust generalization
-	•	High-risk counties consistently show overlap between social vulnerability, heat exposure, and limited healthcare capacity
+- All evaluated models achieved perfect precision and recall on the dataset
+- Results indicate a strong, easily separable pattern rather than robust generalization
+- High-risk counties consistently show overlap between social vulnerability, heat exposure, and limited healthcare capacity
 
 
 ### 🤖 AI Usage
-	•	Integrated an AI Assistant powered by Snowflake Cortex
-	•	Enables natural-language questions about counties, vulnerability, and healthcare access
-	•	Designed for explainability and decision support, not automated decision-making
-	•	No external API keys required
+- Integrated an AI Assistant powered by Snowflake Cortex
+- Enables natural-language questions about counties, vulnerability, and healthcare access
+- Designed for explainability and decision support, not automated decision-making
+- No external API keys required
 
 ⸻
 
 ### ⚖️ Responsible AI Considerations
-	•	County-level aggregation may hide within-county disparities
-	•	Small sample size limits generalizability
-	•	Perfect model performance flagged as a red flag, not a success metric
-	•	Outputs are intended to support human judgment, not replace it
+- County-level aggregation may hide within-county disparities
+- Small sample size limits generalizability
+- Perfect model performance flagged as a red flag, not a success metric
+- Outputs are intended to support human judgment, not replace it
 
 ⸻
 
 ### 🚀 Next Steps
-	•	Expand datasets beyond Arizona
-	•	Add cross-validation and temporal analysis
-	•	Integrate geospatial mapping layers
-	•	Evaluate external validation data
-	•	 Cross-validation with expanded datasets
-- Cross-validation with expanded datasets  
-- Geospatial mapping layers  
+- Expand datasets beyond Arizona
+- Add cross-validation and temporal analysis
+- Integrate geospatial mapping layers
+- Evaluate external validation data
+- Cross-validation with expanded datasets
 - Time-series heat analysis  
 - External validation beyond Arizona
-- ### Future Enhancements
-- Cross-validation with expanded datasets  
 - Geospatial mapping layers  
-- Time-series heat analysis  
-- External validation beyond Arizona  
 
 ⸻
 
 ### 🔐 Security & Authentication
-	•	Uses Snowflake-native get_active_session()
-	•	No hardcoded credentials
-	•	AI powered by Snowflake Cortex, not external LLM APIs
+- Uses Snowflake-native get_active_session()
+- No hardcoded credentials
+- AI powered by Snowflake Cortex, not external LLM APIs
 
-	⸻
-
-
-⸻
 
 ## 🙏 **Acknowledgements** (Optional but encouraged)
 
