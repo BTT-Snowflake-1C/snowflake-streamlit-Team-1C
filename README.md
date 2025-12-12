@@ -56,7 +56,9 @@ Dependencies:
 
 How to Run
 	1.	Connect this GitHub repository to Snowflake using Git integration
+	
 	2.	Open app.py in Snowflake Streamlit
+	
 	3.	Run the app (authentication handled automatically)
 
 ⸻
