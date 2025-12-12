@@ -106,10 +106,10 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 
 
 ### 📊 Data Exploration
-	•	Explored raw and engineered datasets directly from Snowflake
-	•	Analyzed distributions, missing values, and county-level variation
-	•	Identified patterns linking vulnerability, heat risk, and hospital access
-	•	Used visual, interpretable EDA to support non-technical decision-makers
+- Explored raw and engineered datasets directly from Snowflake
+- Analyzed distributions, missing values, and county-level variation
+- Identified patterns linking vulnerability, heat risk, and hospital access
+- Used visual, interpretable EDA to support non-technical decision-makers
 
 
 ### 🧠 Model Development
