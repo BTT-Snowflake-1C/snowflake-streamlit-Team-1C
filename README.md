@@ -49,52 +49,17 @@ Name: app_environment
 Channels:
 	•	snowflake
 
-Dependencies:
+## Dependencies:
 	•	python 3.10
 	•	snowflake-snowpark-python
 	•	streamlit
 
-How to Run
-	1.	Connect this GitHub repository to Snowflake using Git integration
-	
-	2.	Open app.py in Snowflake Streamlit
-	
-	3.	Run the app (authentication handled automatically)
-
-
-## 👩🏽‍💻 Setup and Installation
-
-This project runs natively inside Snowflake Streamlit.
-
-Environment
-
-Name: app_environment
-
-Channels:
-	•	snowflake
-
-Dependencies:
-	•	python 3.10
-	•	snowflake-snowpark-python
-	•	streamlit
-
-	How to Run
-	1.	Connect this GitHub repository to Snowflake using Git integration
-	
-	2.	Open app.py in Snowflake Streamlit
-	
-	3.	Run the app (authentication handled automatically)
-
-⸻
-
-How to Run
+### How to Run
 	1.	Connect this GitHub repository to Snowflake using Git integration
 	2.	Open app.py in Snowflake Streamlit
 	3.	Run the app (authentication handled automatically)
 
-⸻
-
-🧪 Data Sources
+### 🧪 Data Sources
 These datasets include county-level social vulnerability indicators, heat exposure metrics, population data, and licensed hospital capacity.
 Snowflake tables used in this project:
 	•	SVI.PUBLIC.ARIZONA_CLEAN
@@ -129,7 +94,7 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 	•	Public health officials prioritize intervention areas
 	•	Policymakers allocate healthcare resources more effectively
 	•	Communities prepare for climate-driven health risks
-⸻
+
 
 ### 📊 Application Pages
 - Home — Overview and live data preview  
@@ -137,35 +102,30 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 - County Analysis — Population and vulnerability comparisons  
 - Exploratory Visual Analysis — Hospitals, heat, and social barriers  
 - Modeling & Evaluation — Performance interpretation  
-- AI Assistant — Snowflake Cortex–powered Q&A  
+- AI Assistant — Snowflake Cortex–powered Q&A
 
 
-⸻
-
-📊 Data Exploration
+### 📊 Data Exploration
 	•	Explored raw and engineered datasets directly from Snowflake
 	•	Analyzed distributions, missing values, and county-level variation
 	•	Identified patterns linking vulnerability, heat risk, and hospital access
 	•	Used visual, interpretable EDA to support non-technical decision-makers
 
-⸻
 
-🧠 Model Development
+### 🧠 Model Development
 	•	Evaluated multiple models (logistic regression, decision tree, random forest)
 	•	Focused on interpretability over complexity
 	•	Observed perfect scores due to small dataset size and clear signal
 	•	Explicitly discussed risks of overfitting and data leakage
+	
 
-⸻
-
-📈 Results & Key Findings
+### 📈 Results & Key Findings
 	•	All evaluated models achieved perfect precision and recall on the dataset
 	•	Results indicate a strong, easily separable pattern rather than robust generalization
 	•	High-risk counties consistently show overlap between social vulnerability, heat exposure, and limited healthcare capacity
 
-⸻
 
-🤖 AI Usage
+### 🤖 AI Usage
 	•	Integrated an AI Assistant powered by Snowflake Cortex
 	•	Enables natural-language questions about counties, vulnerability, and healthcare access
 	•	Designed for explainability and decision support, not automated decision-making
@@ -173,7 +133,7 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 
 ⸻
 
-⚖️ Responsible AI Considerations
+### ⚖️ Responsible AI Considerations
 	•	County-level aggregation may hide within-county disparities
 	•	Small sample size limits generalizability
 	•	Perfect model performance flagged as a red flag, not a success metric
@@ -181,7 +141,7 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 
 ⸻
 
-🚀 Next Steps
+### 🚀 Next Steps
 	•	Expand datasets beyond Arizona
 	•	Add cross-validation and temporal analysis
 	•	Integrate geospatial mapping layers
@@ -199,16 +159,12 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 
 ⸻
 
-🔐 Security & Authentication
+### 🔐 Security & Authentication
 	•	Uses Snowflake-native get_active_session()
 	•	No hardcoded credentials
 	•	AI powered by Snowflake Cortex, not external LLM APIs
 
 	⸻
-
-
----
-
 
 
 ⸻
@@ -221,5 +177,3 @@ Thank your Challenge Advisor, host company representatives, TA.
 
 © 2025 — Team Snowflake 1C❄️
 Break Through Tech AI Studio
-
-
