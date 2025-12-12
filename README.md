@@ -32,82 +32,86 @@ This project runs **natively inside Snowflake Streamlit**.
 
 ### Environment
 
-```yaml
-name: app_environment
-channels:
-  - snowflake
-dependencies:
-  - python=3.10.*
-  - snowflake-snowpark-python
-  - streamlit
+Name: app_environment  
 
-  How to Run
-	1.	Connect this GitHub repository to Snowflake using Git integration
-	2.	Open app.py in Snowflake Streamlit
-	3.	Run the app (authentication handled automatically)
+Channels:
+- snowflake  
 
-⸻
+Dependencies:
+- python 3.10
+- snowflake-snowpark-python
+- streamlit  
 
-🧪 Data Sources
+---
+
+### How to Run
+
+1. Connect this GitHub repository to Snowflake using Git integration  
+2. Open app.py in Snowflake Streamlit  
+3. Run the app (authentication handled automatically)
+
+---
+
+### Data Sources
 
 Snowflake tables used:
-	•	SVI.PUBLIC.ARIZONA_CLEAN
-	•	SVI.PUBLIC.ARIZONA_2022_MAXTEMP
-	•	SVI.PUBLIC.ARIZONA_LICENSED_HOSPITAL
-	•	SVI.PUBLIC.SVI_HOSPITAL_MERGED
-	•	SVI.PUBLIC.SVICLEANED
+- SVI.PUBLIC.ARIZONA_CLEAN  
+- SVI.PUBLIC.ARIZONA_2022_MAXTEMP  
+- SVI.PUBLIC.ARIZONA_LICENSED_HOSPITAL  
+- SVI.PUBLIC.SVI_HOSPITAL_MERGED  
+- SVI.PUBLIC.SVICLEANED  
 
-⸻
+---
 
-🧠 Project Overview
+### Project Overview
 
-Connection to Break Through Tech AI
+**Connection to Break Through Tech AI**
 
 This project was developed as part of the Break Through Tech AI Studio, where fellows work on real-world, industry-aligned data science challenges using enterprise platforms.
 
-Host Context & Objective
+**Host Context & Objective**
 
-The objective of this project is to identify and explain healthcare access gaps (“medical deserts”) in Arizona by analyzing how social vulnerability, heat exposure, population dynamics, and hospital capacity intersect at the county level.
+The objective of this project is to identify and explain healthcare access gaps (medical deserts) in Arizona by analyzing how social vulnerability, heat exposure, population dynamics, and hospital capacity intersect at the county level.
 
-Scope of Work
-	•	Data exploration and feature engineering using Snowflake
-	•	County-level comparative analysis and visualization
-	•	Interpretability-focused modeling evaluation
-	•	AI-assisted insight generation for non-technical stakeholders
+**Scope of Work**
+- Data exploration and feature engineering using Snowflake  
+- County-level comparative analysis and visualization  
+- Interpretability-focused modeling evaluation  
+- AI-assisted insight generation for non-technical stakeholders  
 
-Real-World Significance
+**Real-World Significance**
 
 Extreme heat and social vulnerability amplify healthcare inequities. This dashboard helps:
-	•	Public health officials prioritize intervention areas
-	•	Policymakers allocate healthcare resources more effectively
-	•	Communities prepare for climate-driven health risks
+- Public health officials prioritize intervention areas  
+- Policymakers allocate healthcare resources more effectively  
+- Communities prepare for climate-driven health risks  
 
-⸻
+---
 
-📊 Application Pages
-	•	Home — Overview and live data preview
-	•	Data Understanding — Raw vs engineered datasets
-	•	County Analysis — Population and vulnerability comparisons
-	•	Exploratory Visual Analysis — Hospitals, heat, and social barriers
-	•	Modeling & Evaluation — Performance interpretation
-	•	AI Assistant — Snowflake Cortex–powered Q&A
+### Application Pages
+- Home — Overview and live data preview  
+- Data Understanding — Raw vs engineered datasets  
+- County Analysis — Population and vulnerability comparisons  
+- Exploratory Visual Analysis — Hospitals, heat, and social barriers  
+- Modeling & Evaluation — Performance interpretation  
+- AI Assistant — Snowflake Cortex–powered Q&A  
 
-⸻
+---
 
-🔐 Security & Authentication
-	•	Uses Snowflake-native get_active_session()
-	•	No hardcoded credentials
-	•	AI powered by Snowflake Cortex, not external APIs
+### Security & Authentication
+- Uses Snowflake-native get_active_session()  
+- No hardcoded credentials  
+- AI powered by Snowflake Cortex, not external APIs  
 
-⸻
+---
 
-📈 Future Enhancements
-	•	Cross-validation with expanded datasets
-	•	Geospatial mapping layers
-	•	Time-series heat analysis
-	•	External validation beyond Arizona
+### Future Enhancements
+- Cross-validation with expanded datasets  
+- Geospatial mapping layers  
+- Time-series heat analysis  
+- External validation beyond Arizona  
 
-⸻
+---
 
-© 2025 — Team Snowflake 1C
+© 2025 — Team Snowflake 1C  
 Break Through Tech AI Studio
