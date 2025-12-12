@@ -128,6 +128,8 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 - Enables natural-language questions about counties, vulnerability, and healthcare access
 - Designed for explainability and decision support, not automated decision-making
 - No external API keys required
+<img width="995" height="564" alt="Screenshot 2025-12-12 at 4 32 27 PM" src="https://github.com/user-attachments/assets/14a1c0d0-4f39-4137-9586-e57077eaed20" />
+
 
 
 ### ⚖️ Responsible AI Considerations
@@ -145,13 +147,6 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 - Time-series heat analysis  
 - External validation beyond Arizona
 - Geospatial mapping layers  
-
-### 🔐 Security & Authentication
-- Uses Snowflake-native get_active_session()
-- No hardcoded credentials
-- AI powered by Snowflake Cortex, not external LLM APIs
-
----
 
 
 ## 🙏 **Acknowledgements**
