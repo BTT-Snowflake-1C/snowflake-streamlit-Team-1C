@@ -28,12 +28,12 @@
 
 ---
 
-## 🧰 Tech Stack ##
+## 🧰 Tech Stack
 - Snowflake (Snowpark, Cortex)
 - Streamlit (Snowflake-native)
 - Python (pandas, Altair)
 - GitHub (version control and deployment)
-
+---
 
 ## 👩🏽‍💻 Setup and Installation
 
