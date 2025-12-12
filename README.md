@@ -149,6 +149,7 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 - Uses Snowflake-native get_active_session()
 - No hardcoded credentials
 - AI powered by Snowflake Cortex, not external LLM APIs
+---
 
 
 ## 🙏 **Acknowledgements**
