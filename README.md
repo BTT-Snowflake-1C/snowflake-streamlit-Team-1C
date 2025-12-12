@@ -153,7 +153,7 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 
 ## 🙏 **Acknowledgements**
 
-Thank your Challenge Advisor, host company representatives, TA.
+Thank you Rajshri Jain, Joe Warbington, Tess Dicker and Abhijay Rane!
 
-© 2025 — Team Snowflake 1C❄️
+© 2025 — Team Snowflake 1C ❄️
 Break Through Tech AI Studio
