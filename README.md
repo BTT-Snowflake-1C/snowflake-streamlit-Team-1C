@@ -101,6 +101,8 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 - Exploratory Visual Analysis — Hospitals, heat, and social barriers  
 - Modeling & Evaluation — Performance interpretation  
 - AI Assistant — Snowflake Cortex–powered Q&A
+<img width="402" height="470" alt="Screenshot 2025-12-12 at 4 52 28 PM" src="https://github.com/user-attachments/assets/44243dc6-6120-41ba-a4bd-5bf365416e20" />
+
 
 
 ### 📊 Data Exploration
