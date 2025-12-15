@@ -6,7 +6,7 @@ Snowflake 1C
 
 | Name | GitHub Handle | Contribution |
 |----|----|----|
-| Mahamadou Nimaga | [Mahamadou4](https://github.com/Mahamadou4)| Streamlit development,Modeling|
+| Mahamadou Nimaga | [Mahamadou4](https://github.com/Mahamadou4)| Streamlit development, Modeling|
 | Team Snowflake 1C | [sgubba1](https://github.com/sgubba1) | Data engineering, exploratory analysis |
 | Ziyan Chen | [zyanczy](https://github.com/zyanczy) | Data engineering, single variable exploratory analysis, Streamlit development |
 | Team Snowflake 1C | @fizabajwa25 | Modeling evaluation |
