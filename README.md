@@ -125,7 +125,11 @@ Given the small dataset size and public-policy use case, we prioritized **interp
 
 - **Logistic Regression** — identifies statistical associations between features and medical desert status  
 - **Decision Tree** — provides transparent, rule-based explanations  
-- **Random Forest** — highlights feature importance and robustness across models  
+- **Random Forest** — highlights feature importance and robustness across models
+
+<img width="827" height="667" alt="Screenshot 2025-12-14 at 11 35 38 PM" src="https://github.com/user-attachments/assets/e7ff1ece-b7dd-490d-bfc6-1ce2280618e8" />
+
+<img width="828" height="523" alt="Screenshot 2025-12-14 at 11 36 00 PM" src="https://github.com/user-attachments/assets/ed72c45b-cc44-47da-89b8-6cdb658cf362" />
 
 ### Training & Evaluation
 
