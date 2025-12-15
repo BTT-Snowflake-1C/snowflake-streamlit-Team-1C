@@ -7,13 +7,13 @@
 
 ## Team Members
 
-| Name | GitHub Handle | Contribution |
+| Name | GitHub Handle | Main Contribution |
 |----|----|----|
-| Mahamadou Nimaga | [Mahamadou4](https://github.com/Mahamadou4)| Streamlit development,Modeling|
+| Mahamadou Nimaga | [Mahamadou4](https://github.com/Mahamadou4)| Streamlit development, Modeling evaluation|
 | Srinidhi | [sgubba1](https://github.com/sgubba1) | Data engineering, exploratory analysis |
-| Ziyan Chen | [zyanczy](https://github.com/zyanczy) | Data engineering, single variable exploratory analysis, Streamlit development |
-| Fiza | @fizabajwa25 | Modeling evaluation |
-| Justin | @nitsujiang | Data Engineering, multi variable exploratory analysis  |
+| Ziyan Chen | [zyanczy](https://github.com/zyanczy) | Data engineering, single variable EDA, Streamlit development |
+| Fiza | @fizabajwa25 | Modeling evaluation, AI assitant |
+| Justin | @nitsujiang | Data Engineering, multivariable EDA  |
 | Naima | @naima-01 | Exploratory analysis |
 | Cindy | @cindycastanon | Modeling |
 
