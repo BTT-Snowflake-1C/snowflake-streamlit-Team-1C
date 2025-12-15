@@ -6,7 +6,7 @@
 | Name | GitHub Handle | Contribution |
 |----|----|----|
 | Mahamadou Nimaga | [Mahamadou4](https://github.com/Mahamadou4)| Streamlit app development, Snowflake integration, dashboard architecture, AI assistant |
-| Team Snowflake 1C | @sgubba1 | Data engineering, exploratory analysis |
+| Team Snowflake 1C | [sgubba1](https://github.com/sgubba1) | Data engineering, exploratory analysis |
 | Team Snowflake 1C | @zyanczy| Data engineering, exploratory analysis, modeling |
 | Team Snowflake 1C | @fizabajwa25 | Modeling evaluation |
 | Team Snowflake 1C | @nitsujiang | Data Engineering, exploratory analysis  |
