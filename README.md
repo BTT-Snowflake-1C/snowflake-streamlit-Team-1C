@@ -6,12 +6,12 @@
 | Name | GitHub Handle | Contribution |
 |----|----|----|
 | Mahamadou Nimaga | [Mahamadou4](https://github.com/Mahamadou4)| Streamlit app development, Snowflake integration, dashboard architecture, AI assistant |
-| Team Snowflake 1C | @sgubba1 | Data engineering, feature selection, exploratory analysis, modeling |
-| Team Snowflake 1C | @zyanczy| Data engineering, feature selection, exploratory analysis, modeling |
-| Team Snowflake 1C | @fizabajwa25 | Data engineering, feature selection, exploratory analysis, modeling |
-| Team Snowflake 1C | @nitsujiang | Data engineering, feature selection, exploratory analysis, modeling |
-| Team Snowflake 1C | @naima-01 | Data engineering, feature selection, exploratory analysis, modeling |
-| Team Snowflake 1C | @cindycastanon | Data engineering, feature selection, exploratory analysis, modeling |
+| Team Snowflake 1C | @sgubba1 | Data engineering, exploratory analysis |
+| Team Snowflake 1C | @zyanczy| Data engineering, exploratory analysis, modeling |
+| Team Snowflake 1C | @fizabajwa25 | Modeling evaluation |
+| Team Snowflake 1C | @nitsujiang | Data Engineering, exploratory analysis  |
+| Team Snowflake 1C | @naima-01 | Exploratory analysis |
+| Team Snowflake 1C | @cindycastanon | Modeling |
 
 
 ## 🎯 Project Highlights
@@ -94,6 +94,12 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 - Policymakers allocate healthcare resources more effectively
 - Communities prepare for climate-driven health risks
 
+### 📊 Repository Structure
+- streamlit_app.py: Main Streamlit application file containing UI and page routing
+- streamlitcopyfiza.py: Older version of Streamlit application file
+- weather upload.ipynb: created the final dataset (SVI_HOSPITAL_MERGED) using various data sources and cleaning steps
+- ziyan_eda_arizona.py: loads county-level health, social vulnerability, and heat data from Snowflake into the Streamlit
+
 
 ### 📊 Application Pages
 - Home — Overview and live data preview  
@@ -105,15 +111,17 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 <img width="402" height="470" alt="Screenshot 2025-12-12 at 4 52 28 PM" src="https://github.com/user-attachments/assets/44243dc6-6120-41ba-a4bd-5bf365416e20" />
 
 
-
 ### 📊 Data Exploration
 - Explored raw and engineered datasets directly from Snowflake
 - Analyzed distributions, missing values, and county-level variation
 - Identified patterns linking vulnerability, heat risk, and hospital access
 - Used visual, interpretable EDA to support non-technical decision-makers
 
-- Visualizations
+- Visualizations: The goal is to explore the data and see if there are any counties with preliminary concerns for SVI or hospital access.
+  
+Visualization 1: Exploring Individual SVI Variables by County
 <img width="1313" height="412" alt="image" src="https://github.com/user-attachments/assets/47093edf-a186-4ea7-871c-6fa17b45acff" />
+Visualization 2: Comparing County SVI Scores to County Hospital Frequency
 <img width="815" height="435" alt="image" src="https://github.com/user-attachments/assets/4827adf7-00a4-4711-a18c-8518de07366a" />
 
 
