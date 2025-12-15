@@ -1,4 +1,5 @@
 # 🏜️ Navigating Care Deserts: Arizona Social Vulnerability & Healthcare Access Dashboard
+Snowflake 1C
 --- 
 
 ## 👥 Team Members
@@ -7,7 +8,7 @@
 |----|----|----|
 | Mahamadou Nimaga | [Mahamadou4](https://github.com/Mahamadou4)| Streamlit app development, Snowflake integration, dashboard architecture, AI assistant |
 | Team Snowflake 1C | [sgubba1](https://github.com/sgubba1) | Data engineering, exploratory analysis |
-| Team Snowflake 1C | [zyanczy](https://github.com/zyanczy) | Data engineering, single variable exploratory analysis, Streamlit development |
+| Ziyan Chen | [zyanczy](https://github.com/zyanczy) | Data engineering, single variable exploratory analysis, Streamlit development |
 | Team Snowflake 1C | @fizabajwa25 | Modeling evaluation |
 | Team Snowflake 1C | @nitsujiang | Data Engineering, multi variable exploratory analysis  |
 | Team Snowflake 1C | @naima-01 | Exploratory analysis |
