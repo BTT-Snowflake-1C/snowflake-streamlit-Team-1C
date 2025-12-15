@@ -50,7 +50,7 @@ This dashboard is designed to support:
 - **Non-technical users** accessing complex data through an AI-assisted interface  
 
 
-### Scope of Work**
+### Scope of Work
 - Data exploration and feature engineering using Snowflake Notebooks and Databases
 - County-level comparative analysis and visualizations (uni-factor and multi-factor)
 - Model development (three types)
