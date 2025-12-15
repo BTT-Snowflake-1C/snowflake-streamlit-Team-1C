@@ -130,6 +130,8 @@ Given the small dataset size and public-policy use case, we prioritized **interp
 <img width="827" height="667" alt="Screenshot 2025-12-14 at 11 35 38 PM" src="https://github.com/user-attachments/assets/e7ff1ece-b7dd-490d-bfc6-1ce2280618e8" />
 
 <img width="828" height="523" alt="Screenshot 2025-12-14 at 11 36 00 PM" src="https://github.com/user-attachments/assets/ed72c45b-cc44-47da-89b8-6cdb658cf362" />
+<img width="1061" height="680" alt="Screenshot 2025-12-14 at 11 37 59 PM" src="https://github.com/user-attachments/assets/7562cc36-329b-41ae-910a-35f38129b603" />
+
 
 ### Training & Evaluation
 
