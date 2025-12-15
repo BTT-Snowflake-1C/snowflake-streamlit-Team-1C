@@ -111,6 +111,7 @@ Visualization from the EDA:
   
 Visualization 1 (Single variable): Exploring Individual SVI Variables by County
 <img width="1313" height="412" alt="image" src="https://github.com/user-attachments/assets/47093edf-a186-4ea7-871c-6fa17b45acff" />
+
 Visualization 2(Multivariable): Comparing County SVI Scores to County Hospital Frequency
 <img width="815" height="435" alt="image" src="https://github.com/user-attachments/assets/4827adf7-00a4-4711-a18c-8518de07366a" />
 
