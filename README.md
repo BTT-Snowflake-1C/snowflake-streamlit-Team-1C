@@ -12,7 +12,7 @@
 | Mahamadou Nimaga | [Mahamadou4](https://github.com/Mahamadou4)| Streamlit development, Modeling evaluation|
 | Srinidhi | [sgubba1](https://github.com/sgubba1) | Data engineering, Exploratory analysis |
 | Ziyan Chen | [zyanczy](https://github.com/zyanczy) | Data engineering, Single variable EDA, Streamlit development |
-| Fiza | @fizabajwa25 | Modeling evaluation, AI assitant |
+| Fiza Bajwa | [fizabajwa25](https://github.com/fizabajwa25) | Modeling evaluation, AI assitant |
 | Justin | @nitsujiang | Data Engineering, Multivariable EDA  |
 | Naima | @naima-01 | Exploratory analysis |
 | Cindy | @cindycastanon | Modeling |
