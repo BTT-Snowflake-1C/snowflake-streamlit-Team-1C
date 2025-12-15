@@ -2,7 +2,7 @@
 Snowflake 1C
 --- 
 
-## 👥 Team Members
+## Team Members
 
 | Name | GitHub Handle | Contribution |
 |----|----|----|
@@ -27,14 +27,14 @@ Snowflake 1C
 
 
 
-## 🧰 Tech Stack
+## Tech Stack
 - Snowflake (Snowpark, Cortex)
 - Streamlit (Snowflake-native)
 - Python (pandas, Altair)
 - GitHub (version control and deployment)
 ---
 
-## 👩🏽‍💻 Setup and Installation
+## Setup and Installation
 
 This project runs **inside Snowflake Streamlit**.
 
@@ -55,7 +55,7 @@ Channels:
 - Open app.py in Snowflake Streamlit
 - Run the app (authentication handled automatically)
 
-### 🧪 Data Sources
+### Data Sources
 These datasets include county-level social vulnerability indicators, heat exposure metrics, population data, and licensed hospital capacity.
 Snowflake tables used in this project:
 - SVI.PUBLIC.ARIZONA_CLEAN
@@ -67,7 +67,7 @@ Snowflake tables used in this project:
 These datasets include county-level social vulnerability indicators, heat exposure metrics, population data, and licensed hospital capacity. They were sources from Arizona's Department of Health and NOAA.
 
 ---
-## 🏗️Project Overview
+## Project Overview
 
 Connection to Break Through Tech AI
 
@@ -91,14 +91,14 @@ Extreme heat and social vulnerability amplify healthcare inequities. This dashbo
 - Communities better understand what factors impact their health risks
 - Make large amounts of health and SVI data easier to access using our AI chatbot
 
-### 📊 Repository Structure
+### Repository Structure
 - streamlit_app.py: Main Streamlit application file containing UI and page routing
 - streamlitcopyfiza.py: Older version of Streamlit application file
 - weather upload.ipynb: created the final dataset (SVI_HOSPITAL_MERGED) using various data sources and cleaning steps
 - ziyan_eda_arizona.py: loads county-level health, social vulnerability, and heat data from Snowflake into the Streamlit
 
 
-### 📊 Application Pages
+### Application Pages
 - Home — Overview and live data preview  
 - Data Understanding — Raw vs engineered datasets  
 - County Analysis — Population and vulnerability comparisons  
@@ -122,7 +122,7 @@ Visualization 2: Comparing County SVI Scores to County Hospital Frequency
 <img width="815" height="435" alt="image" src="https://github.com/user-attachments/assets/4827adf7-00a4-4711-a18c-8518de07366a" />
 
 
-### 🧠 Model Development
+### Model Development
 - Evaluated multiple models (logistic regression, decision tree, random forest)
 - Focused on interpretability over complexity
 - Observed perfect scores due to small dataset size and clear signal
@@ -144,7 +144,7 @@ Visualization 2: Comparing County SVI Scores to County Hospital Frequency
 
 
 
-### ⚖️ Responsible AI Considerations
+### Responsible AI Considerations
 - County-level aggregation may hide within-county disparities
 - Small sample size limits generalizability
 - Perfect model performance flagged as a red flag, not a success metric
@@ -156,7 +156,7 @@ Visualization 2: Comparing County SVI Scores to County Hospital Frequency
 - Integrate geospatial mapping layers to highlight regional changes
 
 
-## 🙏 **Acknowledgements**
+## **Acknowledgements**
 
 Thank you Rajshri Jain, Joe Warbington, Tess Dicker and Abhijay Rane!
 
